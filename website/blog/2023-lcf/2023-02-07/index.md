@@ -91,6 +91,7 @@ With Dataverse you can store terabytes of data – all types of data like relati
 ### Enterprise grade Security, along with advanced risk and compliance features
 Dataverse provides built-in enterprise-grade security that is based on [Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust) principles. The security layer spans across data and compute layer with robust authentication mechanisms and authorization mechanisms like role-based access model. Dataverse also supports advanced risk and compliance features like [Customer Lockbox](https://learn.microsoft.com/en-us/power-platform/admin/about-lockbox and Customer Managed Key https://learn.microsoft.com/en-us/power-platform/admin/manage-encryption-key). Learn more about Dataverse Security features and capabilities covered in the [Microsoft Dataverse Security white paper}(https://download.microsoft.com/download/9/e/d/9edefa88-50a0-4900-97f4-815bca5a7cb8/Dataverse-security-and-scenarios.pdf).
 
+You have seen that by using Microsoft Dataverse with Azure, there is so much you can do with your data for so less - effort, cost and time! 
 
 ### Resources
 [Microsoft Dataverse documentation](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/)
