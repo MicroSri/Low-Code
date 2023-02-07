@@ -60,7 +60,8 @@ All these diverse types of data, in Dataverse, are represented externally as tab
 Dataverse enables integrated, intelligent systems of action of the data that is stored. Dataverse achieves this by leveraging Azure services, so it is built on Azure and extends with Azure. 
  ![Figure 2: Microsoft Dataverse and Power Platform](./DataverseRunsOnAzure.png)<br>
 *Figure 2: Microsoft Dataverse Runs on Azure & Extends with Azure*<br>
-All the building blocks of Dataverse i.e., storage, computing and insights are built on Azure. Similarly, if you need to extend the functionality, you can leverage your existing investments in Azure to augment your customer requirements. 
+
+All the building blocks of Dataverse i.e., storage, compute and insights are built on Azure. Similarly, if you need to extend the functionality, you can leverage your existing investments in Azure to augment your customer requirements. 
 ## Why Dataverse? ##
 Microsoft Dataverse is much more than a database because it provides a managed SaaS data platform experience for citizen developers and professional developers to build, store, and manage data for their applications. Besides, it also provides a rich and intelligent computing layer to integrate and act on these diverse types of data through [a rich API layer](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/webapi/overview), besides providing analytics and generating insights. In comparison, a database is usually standalone service running on Infrastructure as a Service(IaaS) or Platform as a Service (PaaS) that requires additional efforts, skills, and protocols to integrate, manage and maintain while interacting with other systems. 
 Let’s look at some of these salient features of Dataverse. 
@@ -71,6 +72,7 @@ Dataverse provides an ability to use out of the box power of Power Query via [Po
 Another powerful feature about data integration with Dataverse is the introduction of Virtual Tables in Dataverse which allows you to integrate external data without moving it physically into Dataverse. With this new experience, you can create virtual tables from SharePoint and SQL without any code, and without leaving the maker portal. In minutes, you can set up your connection, pick your SharePoint Site or SQL Database, select your SharePoint List or SQL Table, and your virtual table will appear in table hub within [Maker experience](https://make.powerapps.com) ready to use.
   ![Figure 3: Creating a Virtual Table in Microsoft Dataverse](./VT_SQL_short_221215_small.gif)<br>
 *Figure 3 : Creating a Virtual Table in Microsoft Dataverse*<br>
+
 You can try it out for yourself using this detailed [information](https://powerapps.microsoft.com/en-us/blog/virtual-tables-creation-wizard-now-in-public-preview/) 
 
 ### Advanced business logic, eventing, analytics, and insights at no additional cost 
